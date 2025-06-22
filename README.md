@@ -142,7 +142,7 @@ print(f"Model Intercept: {model.interce
 print("\n--- Demo Complete ---")
 
 
-# OUTPUE
+# OUTPUT
 --- Data Science Libraries Demo ---
 
 1. NumPy: Numerical Operations
@@ -227,3 +227,14 @@ M             79.0      80.166667
 ![image](https://github.com/user-attachments/assets/75abd53c-14c6-44fd-96ff-cbe6851d3166)
 
 ![image](https://github.com/user-attachments/assets/bac7db78-5bcd-4ff2-9367-366511bcf5fc)
+
+![image](https://github.com/user-attachments/assets/6a166b8e-46c8-4a74-acf2-06bb25bd3a1d)
+
+![image](https://github.com/user-attachments/assets/6a960e0b-b77f-4f14-af47-bc03ccfc02a4)
+
+![image](https://github.com/user-attachments/assets/b3645437-1533-4145-b426-96da34ebd228)
+
+![image](https://github.com/user-attachments/assets/9e2f0b6e-b5a1-4313-a52d-b8e74d5a3e5a)
+
+
+
